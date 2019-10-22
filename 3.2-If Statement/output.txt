@@ -1,0 +1,45 @@
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter a number
+a
+You didn't enter a number!
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter a number
+2
+Just a plain old number
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter a number
+57
+This is a Heinz number!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 5 and 10, inclusive
+saf
+You didn't enter a number!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 5 and 10, inclusive
+1
+Number is too small!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 5 and 10, inclusive
+11
+Number is too big!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 5 and 10, inclusive
+7
+Lucky Number 7!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 5 and 10, inclusive
+6
+Just a plain old number
+Enter a lab choice(1-2) or any other key to quit
+exit
+Exiting ...
+
+Process finished with exit code 0

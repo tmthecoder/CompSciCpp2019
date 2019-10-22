@@ -1,0 +1,28 @@
+Enter a lab choice (1-2) or any other key to quit
+1
+This program may reformat your hard drive.  Do you wish to continue (y/n)?
+y
+Adios data!
+Enter a lab choice (1-2) or any other key to quit
+1
+This program may reformat your hard drive.  Do you wish to continue (y/n)?
+n
+Wise Choice!!
+Enter a lab choice (1-2) or any other key to quit
+2
+Enter an integer between 50 and 100
+1
+You didn't enter a number! How dare you!
+Enter a lab choice (1-2) or any other key to quit
+2
+Enter an integer between 50 and 100
+55
+Congrats! You won $55
+Enter a lab choice (1-2) or any other key to quit
+2
+Enter an integer between 50 and 100
+a
+You didn't enter a number! How dare you!
+Enter a lab choice (1-2) or any other key to quit
+
+Process finished with exit code 0

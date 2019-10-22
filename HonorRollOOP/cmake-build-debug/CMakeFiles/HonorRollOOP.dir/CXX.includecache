@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/HonorRollOOP/Student.cpp
+iomanip
+-
+Student.h
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/HonorRollOOP/Student.h
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/HonorRollOOP/Student.h
+iostream
+-
+map
+-
+

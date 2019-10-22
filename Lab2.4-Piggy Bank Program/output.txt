@@ -1,0 +1,45 @@
+Known Money:
+
+*********************
+*     Welcome to    *
+*   the Piggy Bank  *
+*********************
+What is your name?
+Tejas
+Do you know how much money you have?(defaults to no)
+y
+Enter your money amount
+$100.25
+How many weeks have you been saving?
+7
+You have $100.25
+You average $14.32 per week
+Tejas, You can save $744.64 per year
+
+Process finished with exit code 0
+
+Unknown Money:
+
+*********************
+*     Welcome to    *
+*   the Piggy Bank  *
+*********************
+What is your name?
+Tejas
+Do you know how much money you have?(defaults to no)
+n
+How many quarters do you have?
+20
+How many dimes do you have?
+10
+How many nickels do you have?
+5
+How many pennies do you have?
+5
+How many weeks have you been saving?
+7
+You have $6.3
+You average $0.9 per week
+Tejas, You can save $46.8 per year
+
+Process finished with exit code 0

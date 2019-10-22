@@ -1,0 +1,70 @@
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+E
+Not a valid grade average!!
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+A
+Your work is outstanding!
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+B
+You are doing good work!
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+C
+Your work is satisfactory.
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+D
+You need to work a little harder.
+Enter a lab choice(1-2) or any other key to quit
+1
+Enter your grade average(A-F)
+F
+Please see me for extra help!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+0
+Not a valid number!
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+1
+Your number is a low odd number.
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+2
+Your number is a low even number.
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+5
+Your number is the middle odd number.
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+6
+Your number is the middle even number.
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+
+9
+Your number is a high odd number.
+Enter a lab choice(1-2) or any other key to quit
+2
+Enter a number between 1 and 10, inclusive
+10
+Your number is a high even number.
+Enter a lab choice(1-2) or any other key to quit
+exit
+
+Process finished with exit code 0

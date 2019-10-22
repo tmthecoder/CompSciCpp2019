@@ -1,0 +1,38 @@
+Known Value:
+
+*********************
+*     Welcome to    *
+*   the Piggy Bank  *
+*********************
+What is your name?
+Tejas
+How many weeks have you been saving?
+10
+Do you know how much money you have?(defaults to no)
+yes
+Enter your money amount
+$100
+Tejas, at this rate: $10.00/week, you can
+
+Unknown Value:
+
+*********************
+*     Welcome to    *
+*   the Piggy Bank  *
+*********************
+What is your name?
+Tejas
+How many weeks have you been saving?
+10
+Do you know how much money you have?(defaults to no)
+n
+How many quarters do you have?
+100
+How many dimes do you have?
+100
+How many nickels do you have?
+100
+How many pennies do you have?
+100
+Tejas, at this rate: $4.10/week, you can save $213.20 per year!
+Process finished with exit code 0

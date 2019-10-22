@@ -1,0 +1,19 @@
+Enter a lab number from 1-2 or any other key to quit
+1
+Enter the amount of players
+20
+Enter the amount of players on a team
+3
+There will be 6 teams and 2 left over
+Enter a lab number from 1-2 or any other key to quit
+2
+Enter a 3 digit number
+123
+First number: 1
+Second Number: 2
+Third Number: 3
+Sum of all 3 numbers: 6
+Enter a lab number from 1-2 or any other key to quit
+exit
+
+Process finished with exit code 0

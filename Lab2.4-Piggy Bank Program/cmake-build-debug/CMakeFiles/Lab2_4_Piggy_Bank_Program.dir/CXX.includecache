@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/Lab2.4-Piggy Bank Program/main.cpp
+iostream
+-
+math.h
+-
+

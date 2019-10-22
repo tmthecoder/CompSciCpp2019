@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/PiggyBank.cpp
+PiggyBank.h
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/PiggyBank.h
+iomanip
+-
+cmath
+-
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/PiggyBank.h
+iostream
+-
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/PiggyBankOld.cpp
+iostream
+-
+cmath
+-
+
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/main.cpp
+iostream
+-
+PiggyBank.h
+/Users/tejasmehta/Desktop/Development/C++/CompSci 2019-20/PiggyBankOOP/PiggyBank.h
+
