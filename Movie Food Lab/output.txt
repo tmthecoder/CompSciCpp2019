@@ -1,0 +1,218 @@
+Shutdown:
+
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+q
+Enter the password
+ShutMeDown
+Maintainable shutdown.... Powering off ....
+
+Process finished with exit code 0
+
+With 1001th customer shutdown:
+
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+b
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $5 and wait while I prepare your items:
+1 Beverage
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+i
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+i
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+p
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+h
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+c
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+b
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $30 and wait while I prepare your items:
+1 Beverage
+1 Candy
+1 Hot Dog
+2 Pizzas
+1 Popcorn
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+b
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+b
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $10 and wait while I prepare your items:
+2 Beverages
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+b
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $5 and wait while I prepare your items:
+1 Beverage
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+c
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $2.25 and wait while I prepare your items:
+1 Candy
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+h
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+h
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+c
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+c
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $18.5 and wait while I prepare your items:
+2 Candies
+2 Hot Dogs
+Enter your first and last name:
+Tejas Mehta
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+i
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+p
+Do you need to buy anything else?(y/n, defaults to n)
+y
+Which item would you like to buy? Enter the letter in the parenthesis to select the item:
+a. (B)everage: $5.00
+b. (C)andy: $2.25
+c. (H)ot Dog: $7.00
+d. (P)opcorn: $6.75
+e. P(i)zza: $4.50
+p
+Do you need to buy anything else?(y/n, defaults to n)
+n
+Please deposit $18 and wait while I prepare your items:
+1 Pizza
+2 Orders of Popcorn
+Shutting down to rebuild resources...
+
+Process finished with exit code 0
