@@ -16,6 +16,7 @@ int main() {
         }
     } else {
         cout << "Invalid course entry! Exiting..." << endl;
+        return 0;
     }
     //make student with name and count
     Student student(name, courseCount);

@@ -45,7 +45,12 @@ void Student::getCourseGrade() {
                 cout << "Invalid entry... Please try again" << endl;
                 cin >> grade;
             } else {
-                break;
+                if (grade > 110) {
+                    cout << "Invalid grade. Please enter a valid grade" << endl;
+                    cin >> grade;
+                } else {
+                    break;
+                }
             }
         }
         //Map name to grade in the map
